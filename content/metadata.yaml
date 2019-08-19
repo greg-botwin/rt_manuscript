@@ -7,14 +7,14 @@ keywords:
 lang: en-US
 author_info:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
+    github: greg-botwin
+    name: Gregory J. Botwin
+    initials: GJB
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: gjbotwin
+    email: gregory.botwin@cshs.org
     affiliations:
-      - Department of Something, University of Whatever
+      - F. Widjaja Foundation Inflammatory Bowel and Immunobiology Research Institute, Cedars-Sinai Medical Center
     funders: Grant XXXXXXXX
   -
     github: janeroe
