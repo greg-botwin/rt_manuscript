@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/greg-botwin/rt_manuscript/tree/gh-pages) branch hosts the contents of this directory at https://greg-botwin.github.io/rt_manuscript/.
-The permalink for this webpage version is https://greg-botwin.github.io/rt_manuscript/v/0d4c08e2be8920b134004a0081a34db536806324/.
+The permalink for this webpage version is https://greg-botwin.github.io/rt_manuscript/v/a55cd970c4170694c61d9aaa187767069ea13ad0/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://greg-botwin.github.io/rt_manuscript/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`0d4c08e2be8920b134004a0081a34db536806324`](https://github.com/greg-botwin/rt_manuscript/commit/0d4c08e2be8920b134004a0081a34db536806324).
+[`a55cd970c4170694c61d9aaa187767069ea13ad0`](https://github.com/greg-botwin/rt_manuscript/commit/a55cd970c4170694c61d9aaa187767069ea13ad0).
