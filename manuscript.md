@@ -1,6 +1,6 @@
 ---
 author-meta:
-- John Doe
+- Gregory J. Botwin
 - Jane Roe
 date-meta: '2019-08-19'
 keywords:
@@ -18,9 +18,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://greg-botwin.github.io/rt_manuscript/v/aa11f233350f6e2cb6858fa00e1ce06c62a7db37/))
+([permalink](https://greg-botwin.github.io/rt_manuscript/v/0d4c08e2be8920b134004a0081a34db536806324/))
 was automatically generated
-from [greg-botwin/rt_manuscript@aa11f23](https://github.com/greg-botwin/rt_manuscript/tree/aa11f233350f6e2cb6858fa00e1ce06c62a7db37)
+from [greg-botwin/rt_manuscript@0d4c08e](https://github.com/greg-botwin/rt_manuscript/tree/0d4c08e2be8920b134004a0081a34db536806324)
 on August 19, 2019.
 </em></small>
 
@@ -28,15 +28,15 @@ on August 19, 2019.
 
 
 
-+ **John Doe**<br>
++ **Gregory J. Botwin**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [greg-botwin](https://github.com/greg-botwin)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [gjbotwin](https://twitter.com/gjbotwin)<br>
   <small>
-     Department of Something, University of Whatever
+     F. Widjaja Foundation Inflammatory Bowel and Immunobiology Research Institute, Cedars-Sinai Medical Center
      · Funded by Grant XXXXXXXX
   </small>
 
