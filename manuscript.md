@@ -18,9 +18,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://greg-botwin.github.io/rt_manuscript/v/0d4c08e2be8920b134004a0081a34db536806324/))
+([permalink](https://greg-botwin.github.io/rt_manuscript/v/a55cd970c4170694c61d9aaa187767069ea13ad0/))
 was automatically generated
-from [greg-botwin/rt_manuscript@0d4c08e](https://github.com/greg-botwin/rt_manuscript/tree/0d4c08e2be8920b134004a0081a34db536806324)
+from [greg-botwin/rt_manuscript@a55cd97](https://github.com/greg-botwin/rt_manuscript/tree/a55cd970c4170694c61d9aaa187767069ea13ad0)
 on August 19, 2019.
 </em></small>
 
@@ -30,14 +30,14 @@ on August 19, 2019.
 
 + **Gregory J. Botwin**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-6720-8899](https://orcid.org/0000-0002-6720-8899)
     · ![GitHub icon](images/github.svg){.inline_icon}
     [greg-botwin](https://github.com/greg-botwin)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [gjbotwin](https://twitter.com/gjbotwin)<br>
   <small>
      F. Widjaja Foundation Inflammatory Bowel and Immunobiology Research Institute, Cedars-Sinai Medical Center
-     · Funded by Grant XXXXXXXX
+     · Funded by Cedars-Sinai Precision Health
   </small>
 
 + **Jane Roe**<br>

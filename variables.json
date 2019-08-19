@@ -5,13 +5,13 @@
       "github": "greg-botwin",
       "name": "Gregory J. Botwin",
       "initials": "GJB",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
+      "orcid": "0000-0002-6720-8899",
       "twitter": "gjbotwin",
       "email": "gregory.botwin@cshs.org",
       "affiliations": [
         "F. Widjaja Foundation Inflammatory Bowel and Immunobiology Research Institute, Cedars-Sinai Medical Center"
       ],
-      "funders": "Grant XXXXXXXX",
+      "funders": "Cedars-Sinai Precision Health",
       "affiliation_numbers": [
         1
       ]
@@ -50,7 +50,7 @@
     "repo_slug": "greg-botwin/rt_manuscript",
     "repo_owner": "greg-botwin",
     "repo_name": "rt_manuscript",
-    "commit": "0d4c08e2be8920b134004a0081a34db536806324"
+    "commit": "a55cd970c4170694c61d9aaa187767069ea13ad0"
   },
   "manuscript_stats": {
     "reference_counts": {
