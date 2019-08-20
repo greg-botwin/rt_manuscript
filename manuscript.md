@@ -18,9 +18,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://greg-botwin.github.io/rt_manuscript/v/128c588f3807f94f9a527ecd7fc5db32c7ba9c04/))
+([permalink](https://greg-botwin.github.io/rt_manuscript/v/16f8e1124da6c81d70891b68d23ac46cba07b5a2/))
 was automatically generated
-from [greg-botwin/rt_manuscript@128c588](https://github.com/greg-botwin/rt_manuscript/tree/128c588f3807f94f9a527ecd7fc5db32c7ba9c04)
+from [greg-botwin/rt_manuscript@16f8e11](https://github.com/greg-botwin/rt_manuscript/tree/16f8e1124da6c81d70891b68d23ac46cba07b5a2)
 on August 20, 2019.
 </em></small>
 
@@ -42,9 +42,7 @@ on August 20, 2019.
 
 + **Jane Roe**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)<br>
   <small>
      Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
@@ -60,6 +58,9 @@ on August 20, 2019.
 The Background section should explain the relevant context and the specific issue that the software described is intended to address.
 
 ## Implementation {.page_break_before}
+- check codon table for minimal column names, the sum of all amino acids are 1 + 0.02 
+- codon limit ensures that all amino acids have atleast 1 avaialbel codon. 
+
 This should include a description of the overall architecture of the software implementation, along with details of any critical issues and how they were addressed.
 
 ## Results {.page_break_before}
@@ -73,13 +74,13 @@ This should state clearly the main conclusions and provide an explanation of the
 
 ## Availability and Requirements {.page_break_before}
 Lists the following:
-- Project name: e.g. My bioinformatics project
-- Project home page: e.g. http://sourceforge.net/projects/mged
-- Operating system(s): e.g. Platform independent
-- Programming language: e.g. Java
-- Other requirements: e.g. Java 1.3.1 or higher, Tomcat 4.0 or higher
-- License: e.g. GNU GPL, FreeBSD etc.
--  Any restrictions to use by non-academics: e.g. licence needed
+- Project name: reversetranslate
+- Project home page: https://github.com/greg-botwin/reversetranslate
+- Operating system(s): This software has successfully been tested on macOS, Ubuntu, & Microsoft Windows operating systems.
+- Programming language: R
+- Other requirements: R 3.1 or higher and additional package dependicies all found on CRAN. 
+- License: GNU General Public License v3.0.
+- Any restrictions to use by non-academics: No additional restrictions, please see license information. 
 
 ## List of abbreviations {.page_break_before}
 If abbreviations are used in the text they should be defined in the text at first use, and a list of abbreviations should be provided.

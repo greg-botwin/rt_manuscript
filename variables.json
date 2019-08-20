@@ -17,7 +17,6 @@
       ]
     },
     {
-      "github": "janeroe",
       "name": "Jane Roe",
       "initials": "JR",
       "orcid": "XXXX-XXXX-XXXX-XXXX",
@@ -50,12 +49,12 @@
     "repo_slug": "greg-botwin/rt_manuscript",
     "repo_owner": "greg-botwin",
     "repo_name": "rt_manuscript",
-    "commit": "128c588f3807f94f9a527ecd7fc5db32c7ba9c04"
+    "commit": "16f8e1124da6c81d70891b68d23ac46cba07b5a2"
   },
   "manuscript_stats": {
     "reference_counts": {
       "total": 0
     },
-    "word_count": 550
+    "word_count": 594
   }
 }
