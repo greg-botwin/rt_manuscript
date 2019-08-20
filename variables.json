@@ -1,5 +1,5 @@
 {
-  "date": "August 19, 2019",
+  "date": "August 20, 2019",
   "authors": [
     {
       "github": "greg-botwin",
@@ -50,12 +50,12 @@
     "repo_slug": "greg-botwin/rt_manuscript",
     "repo_owner": "greg-botwin",
     "repo_name": "rt_manuscript",
-    "commit": "a55cd970c4170694c61d9aaa187767069ea13ad0"
+    "commit": "128c588f3807f94f9a527ecd7fc5db32c7ba9c04"
   },
   "manuscript_stats": {
     "reference_counts": {
       "total": 0
     },
-    "word_count": 232
+    "word_count": 550
   }
 }
